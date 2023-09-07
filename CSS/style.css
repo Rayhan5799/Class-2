@@ -46,10 +46,12 @@ header{
     color: red;
 }
 .button a{ 
-	background: #ff7060;
+    background: #ff7060;
     color: #fff;
     padding: 15px 10px;
     border-radius: 10px;
+   
+    text-decoration: none;
 }
 
 /*banner section*/
